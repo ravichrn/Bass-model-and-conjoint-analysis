@@ -1,1 +1,1 @@
-# Bass-model-conjoint-analysis
+# Bass-model-and-conjoint-analysis
